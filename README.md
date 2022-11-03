@@ -5,8 +5,8 @@
 ## Launch guide
 
 ```console
-$ git clone https://github.com/ZERDICORP/ants_simulation.git
-$ cd ants_simulation
+$ git clone https://github.com/ZERDICORP/two_line_segments_intersection".git
+$ cd two_line_segments_intersection
 $ ./run
 ```
 
